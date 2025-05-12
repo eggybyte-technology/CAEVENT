@@ -3,7 +3,7 @@
     "start_date": "2022-01-01",
     "end_date": "2025-06-30",
     "stock_code": "000725",
-    "stock_name": "京东方A (测试)",
+    "stock_name": "京东方 A",
     "mode": "multiple",
     "regenerate_summary": false,
     "run_id": null,

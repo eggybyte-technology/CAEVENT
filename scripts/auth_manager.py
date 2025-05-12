@@ -1,10 +1,10 @@
-from csmarapi.CsmarService import CsmarService
 import json
 import os
 import logging
 from pathlib import Path
 import getpass
 from scripts.csmar_log_config import setup_csmar_logging
+from scripts.csmarapi.CsmarService import CsmarService
 
 # Set up logs directory
 LOGS_DIR = Path('logs')

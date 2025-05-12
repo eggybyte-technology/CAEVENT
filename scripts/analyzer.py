@@ -1,4 +1,3 @@
-from csmarapi.CsmarService import CsmarService
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -14,6 +13,7 @@ import json
 from scipy import stats
 import re
 from scripts.csmar_log_config import setup_csmar_logging
+from scripts.csmarapi.CsmarService import CsmarService
 
 # Configure Chinese display
 rcParams['font.sans-serif'] = ['SimHei']
